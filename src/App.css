@@ -126,6 +126,7 @@ nav ul {
 
   & li a {
     color: #fff;
+    text-decoration: none ;
   }
 }
 
@@ -598,3 +599,4 @@ contact us Page ends here
   justify-content: center;
   align-items: center;
 }
+
